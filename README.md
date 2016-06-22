@@ -69,3 +69,7 @@ function callback_func(data, error) {
 ###Dark Theme:
 
 ![Dark Theme Card](https://i.imgur.com/7wWJ6Yb.png)
+
+# License
+
+This project is licensed under the [MIT License](https://github.com/onlineth/Keybase.io-Card-Node.js/blob/master/LICENSE)
